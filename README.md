@@ -5,4 +5,4 @@ Program using HTML,CSS and Javascript. The program allows you to click the roll 
 https://raw.githack.com/BrandonL99/Dice-Roller-Program/refs/heads/main/html-css-java%20dice%20roller%20program/index.html
 <br />
 <br />
-<img src="https://i.imgur.com/cO7Bant.png](https://imgur.com/0p5BOlr" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/gallery/dice-dx5Xrc8" height="80%" width="80%" alt=""/>
